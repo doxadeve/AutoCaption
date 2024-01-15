@@ -1,9 +1,9 @@
 
 NAME = "AutoCaption"
-API_ID = None
-API_HASH =  ""
-BOT_TOKEN = ""
-DB_URL = ""
+API_ID = 28284211
+API_HASH =  "6b0afc140b8534c45de9dc77b7d37415"
+BOT_TOKEN = "6956498960:AAGTyk8iyhOpLACiS2l_4muW7XBRyZgzt60"
+DB_URL = "mongodb+srv://gilav81605:JeaQgoGPkT4VwjOo@cluster0.yxlgygb.mongodb.net/?retryWrites=true&w=majority"
 
 START_TEXT = """
 **Hello {},**
